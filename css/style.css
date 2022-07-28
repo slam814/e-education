@@ -19,12 +19,12 @@
     opacity: 0.7;
 }
 .carousel-caption{
-    bottom: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
+    bottom: 150px;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 .carousel-caption h5{
-    font-size: 70px;
+    font-size: 250%;
     font-weight: 700;
 }
 .carousel-caption p{
